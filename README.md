@@ -12,7 +12,6 @@ Proiect în C structurat sub forma unei serii de interviuri tehnice pentru pozi�
    * *Structură:* Arbore binar de căutare (`Node3` / `TreeNode`).
 4. **Lanțuri Markov (Predicție):** Calculează probabilitatea exactă (ca fracție ireductibilă) ca o acțiune să ajungă la un preț țintă în $K$ zile.
    * *Structură:* Graf orientat reprezentat prin stări/intervale (`Markov`).
-5. **Bonus (Date Reale):** Integrare cu API-ul *Yahoo Finance* (folosind `curl` și `cJSON`) pentru descărcarea automată a datelor.
 
 ## Structura Fișierelor
 * main.c` - Controlul fluxului, citirea argumentelor și gestionarea I/O.
